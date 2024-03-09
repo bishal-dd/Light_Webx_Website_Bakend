@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5", // Set the target ECMAScript version (adjust if needed)
+    "module": "commonjs", // Use the CommonJS module system
+    "outDir": "dist", // Output compiled JavaScript files to the "dist" directory
+    "sourceMap": true, // Generate source maps for debugging
+    "strict": true, // Enable strict mode for type safety
+    "esModuleInterop": true // Allow for easier interop with ES modules
+  }
+}
